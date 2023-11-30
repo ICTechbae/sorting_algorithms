@@ -160,7 +160,7 @@ Function Prototype:
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Iwuoha Chioma</summary>
     <ul>
     <li><a href="https://github.com/ICTechbae">Github</a></li>
     <li><a href="mailto:iwuohachioma30@gmail.com">e-mail</a></li>
